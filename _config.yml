@@ -1,0 +1,37 @@
+url: https://godwitlabs.github.io
+# Production
+baseurl: /
+# Development
+# baseurl: /godwitlabs
+
+# Site settings
+title: Godwit Labs
+email: info@godwitlabs.com
+description: "Godwit Labs, software development and consulting."
+
+
+# Team names, titles and social links
+people:
+- name: Goncalo Morgado
+  pic: 1
+  position: "I am a Software Consultant/Developer with 10+ years of experience in the Automotive Industry, Security / Law Enforcement, IP Licensing (Video Encoding/Decoding, Image Signal Processing) and Gaming Industry. Just before becoming self-employed I was working for Unity as a Software Engineer on Operations/Infrastructure. For the last decade I have worked/lived in the UK, Portugal, Angola and Brazil. Before stepping into the office in the morning I will have done my daily 3 km swimming session."
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/godwitlabs
+  - title: linkedin
+    url: http://linkedin.com/in/goncalo-morgado
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Rua Lamartine Babo 502, Apto 401
+  - line: Santa Maria, RS 97105-230
+  - line: Brazil
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+github: [metadata]
